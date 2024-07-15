@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 3% 5%;
+  background-color: #F2CEDA;
+}
+
+/* Start Header */
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a span {
+  color: #DC0048;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #150101;
+}
+
+.btn {
+  padding: 15px 35px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #DC0048;
+}
+
+/* Header End */
+
+/* Start Hero */
+
+
+
+/* Hero End */
